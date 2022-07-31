@@ -11,6 +11,9 @@
 - New package `sentry-android-navigation` for AndroidX Navigation support ([#2136](https://github.com/getsentry/sentry-java/pull/2136))
 - New package `sentry-compose` for Jetpack Compose support (Navigation) ([#2136](https://github.com/getsentry/sentry-java/pull/2136))
 - Add sample rate to baggage as well as trace in envelope header and flatten user ([#2135](https://github.com/getsentry/sentry-java/pull/2135))
+- Bump Gradle to v7.5.0 ([#2](https://github.com/10088/sentry-java/pull/2))
+  - [changelog](https://github.com/gradle/gradle/blob/master/CHANGELOG.md#v750)
+  - [diff](https://github.com/gradle/gradle/compare/v7.4.2...v7.5.0)
 
 ## 6.1.4
 
