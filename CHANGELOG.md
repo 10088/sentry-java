@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Features
+
+- Bump Native SDK from v0.5.0 to v0.5.4 ([#9](https://github.com/10088/sentry-java/pull/9))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#054)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.5.0...0.5.4)
+
 ## 6.4.2
 
 ### Fixes
