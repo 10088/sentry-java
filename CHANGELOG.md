@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Features
+
+- Bump Gradle from v7.5.1 to v7.6.0 ([#7](https://github.com/10088/sentry-java/pull/7))
+  - [changelog](https://github.com/gradle/gradle/blob/master/CHANGELOG.md#v760)
+  - [diff](https://github.com/gradle/gradle/compare/v7.5.1...v7.6.0)
+
 ## 6.4.2
 
 ### Fixes
