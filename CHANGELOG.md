@@ -11,6 +11,12 @@
 - Ignore Shutdown in progress when closing ShutdownHookIntegration ([#2521](https://github.com/getsentry/sentry-java/pull/2521))
 - Fix app start span end-time is wrong if SDK init is deferred ([#2519](https://github.com/getsentry/sentry-java/pull/2519))
 
+### Dependencies
+
+- Bump Native SDK from v0.5.4 to v0.6.1 ([#14](https://github.com/10088/sentry-java/pull/14))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#061)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.5.4...0.6.1)
+
 ## 6.13.1
 
 ### Fixes
