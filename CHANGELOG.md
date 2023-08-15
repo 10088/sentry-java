@@ -11,6 +11,12 @@
 - Ignore Shutdown in progress when closing ShutdownHookIntegration ([#2521](https://github.com/getsentry/sentry-java/pull/2521))
 - Fix app start span end-time is wrong if SDK init is deferred ([#2519](https://github.com/getsentry/sentry-java/pull/2519))
 
+### Dependencies
+
+- Bump Gradle from v7.6.0 to v8.2.1 ([#22](https://github.com/10088/sentry-java/pull/22))
+  - [changelog](https://github.com/gradle/gradle/blob/master/CHANGELOG.md#v821)
+  - [diff](https://github.com/gradle/gradle/compare/v7.6.0...v8.2.1)
+
 ## 6.13.1
 
 ### Fixes
